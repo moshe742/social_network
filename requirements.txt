@@ -1,4 +1,4 @@
-django==3.2
+django==3.2.6
 djangorestframework==3.12.4
 requests==2.26.0
 djangorestframework-simplejwt==4.7.2
